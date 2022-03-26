@@ -6,4 +6,9 @@ public class Mode {
 
     public Mode(Note startingNote, )
 
+    public Chord generateChord(){}
+
+    public Chord generateExtendedChord(int[] extensions){
+        
+    }
 }
